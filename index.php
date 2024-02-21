@@ -1,1 +1,5 @@
-hellp
+<?php
+echo "OK";
+
+
+?>
